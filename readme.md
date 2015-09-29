@@ -1,4 +1,4 @@
-# HelloWorld Showcase mit Docker & SpringBoot
+# Docker Showcase mit SpringBoot
 
 Dieses Projekt dient zur Presentation von Docker im Zusammenspiel mit Spring Boot Anwendungen.
 
