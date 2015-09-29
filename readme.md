@@ -24,8 +24,8 @@ Dies kann auf den Oracle Servern heruntergeladen werden. Natürlich kann auch ei
  1. Projekt von GitHub Klonen
  2. mvn clean install
  3. in "target" Ordner wechseln
- 4. "docker build ." ausführen
- 5. Docker Image starten
+ 4. "jre-8u60-linux-x64.tar" in "target" Ordner kopieren
+ 5. "docker build ." ausführslkfdfgdfgcker Image starten
  
 ## ToDo
  * Startskript für Dockerimage erstellen
